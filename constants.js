@@ -537,7 +537,7 @@ export const tracks: Tracks = {
       "signals": [
         "Builds systems so as to eliminate entire classes of programmer error",
         "Focuses the team on quality with regular reminders",
-        "Coordinates Watch priorities and projects",
+        "Coordinates supporting customer priorities and projects",
       ],
       "examples": [
         "Added code coverage reporting to iOS CI pipeline",
@@ -1138,7 +1138,7 @@ export const tracks: Tracks = {
     }, {
       "summary": "Exemplifies selflessness for the team without compromising responsibilities, and lifts everyone up",
       "signals": [
-        "Goes above and beyond on the Watch, serving the team without complaint",
+        "Goes above and beyond on customer dev support, serving the team without complaint",
         "Implements concrete programs to signficantly improve team inclusivity",
         "Takes on large amounts of tedious grunt work for the team without being asked",
       ],
@@ -1197,7 +1197,7 @@ export const titles = [
   {label: 'Engineer II', minPoints: 17, maxPoints: 35},
   {label: 'Sr. Engineer', minPoints: 36, maxPoints: 57},
   {label: 'Team Lead', minPoints: 36, maxPoints: 57},
-  {label: 'Engineering Manager', minPoints: 36, maxPoints: 57},
+  {label: 'Engineering Manager', minPoints: 43, maxPoints: 57},
   {label: 'Staff Engineer', minPoints: 58, maxPoints: 89},
   {label: 'Sr. Team Lead', minPoints: 58, maxPoints: 89},
   {label: 'Sr. Engineering Manager', minPoints: 58, maxPoints: 89},
