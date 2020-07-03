@@ -1,8 +1,6 @@
 # Snowflake
 
-Snowflake is SoapBox's tool for planning and supporting our employees career development, heavily influenced from Medium's career growth framework.
-
-Our growth tool is hosted [publicly](https://growth.soapboxhq.com).
+Snowflake is Thrillworks' tool for planning and supporting our employees career development, heavily influenced from Medium's career growth framework.
 
 ## Installation
 Get yarn if you don’t have it already:
