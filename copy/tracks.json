@@ -1,5 +1,5 @@
 {
-  "WEB_CLIENT": {
+  "FRONTEND": {
     "displayName": "Frontend",
     "category": "A",
     "description": "Develops expertise in HTML/CSS/JS",
@@ -71,7 +71,7 @@
       }
     ]
   },
-  "SERVERS": {
+  "BACKEND": {
     "displayName": "Backend",
     "category": "A",
     "description": "Develops expertise in server side engineering, using technologies such as PHP, NodeJS, or .NET",
@@ -215,7 +215,7 @@
       }
     ]
   },
-  "FOUNDATIONS": {
+  "DEVOPS": {
     "displayName": "DevOps",
     "category": "A",
     "description": "Develops expertise in foundational systems, such as deployments, pipelines, databases and machine learning",
