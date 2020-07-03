@@ -128,14 +128,15 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
   render() {
     return (
       <main>
-        <link href="https://fonts.googleapis.com/css?family=Muli:200i,400,400i,600,700,800,900|Roboto" rel="stylesheet" />
         <style jsx global>{`
           body {
-            font-family: Muli, Roboto, Helvetica;
+            font-family: Helvetica, sans-serif;
           }
           main {
-            width: 960px;
+            min-width: 1000px;
+            width: 90vw;
             margin: 0 auto;
+            font-weight: 200;
           }
           .name-input {
             border: none;

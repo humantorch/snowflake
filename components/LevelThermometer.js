@@ -51,6 +51,7 @@ class LevelThermometer extends React.Component<Props> {
       .attr("dy", ".35em")
       .style('font-size', '12px')
       .style('text-anchor', 'start')
+      .style('font-family','Helvetica, sans-serif')
     d3.select(this.bottomAxis).call(this.bottomAxisFn)
       .selectAll('text')
       .attr("y", 0)
@@ -59,6 +60,7 @@ class LevelThermometer extends React.Component<Props> {
       .attr("dy", ".35em")
       .style('font-size', '12px')
       .style('text-anchor', 'start')
+      .style('font-family','Helvetica, sans-serif')
   }
 
   rightRoundedRect(x, y, width, height, radius) {

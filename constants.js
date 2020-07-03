@@ -2,7 +2,7 @@
 import * as d3 from 'd3'
 
 // Track copy moved to separate .json file
-import alltracks from './tracks';
+import alltracks from './copy/tracks';
 
 export type TrackId = 'MOBILE' | 'WEB_CLIENT' | 'FOUNDATIONS' | 'SERVERS' |
   'PROJECT_MANAGEMENT' | 'COMMUNICATION' | 'CRAFT' | 'INITIATIVE' |
