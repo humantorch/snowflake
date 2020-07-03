@@ -1,6 +1,9 @@
 // @flow
 import * as d3 from 'd3'
 
+// Track copy moved to separate .json file
+import alltracks from './tracks';
+
 export type TrackId = 'MOBILE' | 'WEB_CLIENT' | 'FOUNDATIONS' | 'SERVERS' |
   'PROJECT_MANAGEMENT' | 'COMMUNICATION' | 'CRAFT' | 'INITIATIVE' |
   'CAREER_DEVELOPMENT' | 'ORG_DESIGN' | 'WELLBEING' | 'ACCOMPLISHMENT' |
@@ -89,11 +92,7 @@ type Tracks = {|
   'COMMUNITY': Track
 |}
 
-import alltracks from './tracks';
-export const tracks: Tracks = alltracks;
-
-console.log(alltracks);
-
+export const tracks: Tracks = alltracks; // from external .json file
 
 export const trackIds: TrackId[] = Object.keys(tracks)
 
@@ -124,17 +123,26 @@ export const categoryColorScale = d3.scaleOrdinal()
   .domain(categoryIds)
   .range(['#00b8a9', '#f8f3d4', '#f6416c', '#ffde7d'])
 
+// export const titles = [
+//   {label: 'Engineer I', minPoints: 0, maxPoints: 16},
+//   {label: 'Engineer II', minPoints: 17, maxPoints: 35},
+//   {label: 'Sr. Engineer', minPoints: 36, maxPoints: 57},
+//   {label: 'Team Lead', minPoints: 36, maxPoints: 57},
+//   {label: 'Engineering Manager', minPoints: 43, maxPoints: 57},
+//   {label: 'Staff Engineer', minPoints: 58, maxPoints: 89},
+//   {label: 'Sr. Team Lead', minPoints: 58, maxPoints: 89},
+//   {label: 'Sr. Engineering Manager', minPoints: 58, maxPoints: 89},
+//   {label: 'Principal Engineer', minPoints: 90},
+//   {label: 'Dir. Engineering', minPoints: 90}
+// ]
+
 export const titles = [
-  {label: 'Engineer I', minPoints: 0, maxPoints: 16},
-  {label: 'Engineer II', minPoints: 17, maxPoints: 35},
-  {label: 'Sr. Engineer', minPoints: 36, maxPoints: 57},
-  {label: 'Team Lead', minPoints: 36, maxPoints: 57},
-  {label: 'Engineering Manager', minPoints: 43, maxPoints: 57},
-  {label: 'Staff Engineer', minPoints: 58, maxPoints: 89},
-  {label: 'Sr. Team Lead', minPoints: 58, maxPoints: 89},
-  {label: 'Sr. Engineering Manager', minPoints: 58, maxPoints: 89},
-  {label: 'Principal Engineer', minPoints: 90},
-  {label: 'Dir. Engineering', minPoints: 90}
+  {label: 'Thrillworker', minPoints: 0, maxPoints: 16},
+  {label: 'SuperThrillworker', minPoints: 12, maxPoints: 30},
+  {label: 'SuperDuperThrillworker', minPoints: 25, maxPoints: 57},
+  {label: 'DoubleSuperDuperThrillworker', minPoints: 50, maxPoints: 75},
+  {label: 'DoublePlusSuperDuperThrillworker', minPoints: 76, maxPoints: 89},
+  {label: 'Doug', minPoints: 90},
 ]
 
 export const eligibleTitles = (milestoneMap: MilestoneMap): string[] => {

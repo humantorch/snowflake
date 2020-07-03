@@ -41,7 +41,7 @@ class TrackSelector extends React.Component<Props> {
         <tbody>
           <tr>
             {trackIds.map(trackId => (
-              <td key={trackId} className="track-selector-label" datatrack={trackId} onClick={() => this.props.setFocusedTrackIdFn(trackId)}>
+              <td key={trackId} className="track-selector-label" onClick={() => this.props.setFocusedTrackIdFn(trackId)}>
                 {tracks[trackId].displayName}
               </td>
             ))}
