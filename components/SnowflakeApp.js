@@ -156,8 +156,8 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
             text-decoration: none;
           }
         `}</style>
-        <div style={{margin: '19px auto 0', width: 142}}>
-          <a href="https://soapboxhq.com/" target="_blank">
+        <div style={{margin: '19px auto 0', textAlign: 'center'}}>
+          <a href="https://thrillworks.com/" target="_blank">
             <Wordmark />
           </a>
         </div>
@@ -172,10 +172,10 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
                   onChange={e => this.setState({name: e.target.value})}
                   placeholder="Name"
                   />
-              <TitleSelector
+              {/* <TitleSelector
                   milestoneByTrack={this.state.milestoneByTrack}
                   currentTitle={this.state.title}
-                  setTitleFn={(title) => this.setTitle(title)} />
+                  setTitleFn={(title) => this.setTitle(title)} /> */}
             </form>
             <PointSummaries milestoneByTrack={this.state.milestoneByTrack} />
             <LevelThermometer milestoneByTrack={this.state.milestoneByTrack} />
@@ -203,8 +203,7 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
         <div style={{display: 'flex', paddingBottom: '20px'}}>
           <div style={{flex: 5}}>
             ❤️ Made by: <a href="https://medium.engineering" target="_blank">Medium Eng.</a> <br />
-            💙 Modified by: <a href="https://soapboxhq.com">Soapbox Eng.</a> <br />
-            👩‍🔬 Learn about our Soapbox <a href="https://docs.google.com/document/d/1aGnE9t48aOCwrr_u0U80ArkcVhA9ANuUw0g_ClWzs8c/" target="_blank">growth framework</a>.
+            💙 Modified by: <a href="https://thrillworks.com">Thrillworks Eng.</a> <br />
           </div>
           <div style={{flex: 1}}>
             <a href="#" onClick={() => this.setState(emptyState())}>Reset</a>

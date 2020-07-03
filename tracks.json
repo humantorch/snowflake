@@ -1,152 +1,8 @@
 {
-  "FRONTEND": {
-    "displayName": "Frontend",
-    "category": "A",
-    "description": "Develops expertise in frontend technology (HTML/CSS/JS)",
-    "milestones": [
-      {
-        "summary": "Works effectively within established web client architectures, following current best practices",
-        "signals": [
-          "Makes minor modifications to existing screens",
-          "Fixes simple design quality issues",
-          "Uses CSS appropriately, following style guide"
-        ],
-        "examples": [
-          "Implemented sticky item adder on the item detail page",
-          "Hooked up the action to delete an item from an agenda",
-          "Built a new page using ready made scaffolding for EmberJS"
-        ]
-      },
-      {
-        "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
-        "signals": [
-          "Makes sensible abstractions based on template and code patterns",
-          "Specs and builds interactive components independently",
-          "Prototypes simple new features quickly"
-        ],
-        "examples": [
-          "Built paginated page component",
-          "Created shared buttons template",
-          "Uses and understand how Ember-Data works "
-        ]
-      },
-      {
-        "summary": "Designs major new features and demonstrates a nuanced understanding of browser constraints",
-        "signals": [
-          "Provides useful design feedback and suggests feasible alternatives",
-          "Performs systemic tasks to significantly minimise bundle size",
-          "Acts a caretaker for all of web client code"
-        ],
-        "examples": [
-          "Designed font loading strategy for Thrillworks",
-          "Researched utility of service workers for Thrillworks",
-          "Designed and implemented A major feature in the app"
-        ]
-      },
-      {
-        "summary": "Builds complex, reusable architectures that pioneer best practices and enable engineers to work more effectively",
-        "signals": [
-          "Pioneers architecture migrations that reduce programmer burden",
-          "Implements complex UI transitions that bring delight",
-          "Makes architectural decisions that eliminate entire classes of bugs"
-        ],
-        "examples": [
-          "Designed and implemented a significant Thrillworks component library asset",
-          "Implemented Thrillworks's complex microsoft teams embedded frame view",
-          "Designed and pioneered local storage model for front-end authentication"
-        ]
-      },
-      {
-        "summary": "Is an industry-leading expert in web client or sets strategic web client direction for an eng team",
-        "signals": [
-          "Invents new techniques to innovate and overcome browser constraints",
-          "Identifies and solved systemic problems with current architecture",
-          "Defines a long-term vision for web client and ensures projects are in service of it"
-        ],
-        "examples": [
-          "Invented CSS in JS",
-          "Defined and drove migration strategy to EmberJS from JQuery",
-          "Implemented unidirectional data flow to completion"
-        ]
-      }
-    ]
-  },
-  "BACKEND": {
-    "displayName": "Backend",
-    "category": "A",
-    "description": "Develops expertise in server side engineering, using technologies such as PHP, NodeJS, or .NET",
-    "milestones": [
-      {
-        "summary": "Works effectively within established server side frameworks, following current best practices",
-        "signals": [
-          "Adds NodeJS endpoints using layers architecture",
-          "Adds Service endpoints using Laravel PHP Framework",
-          "Makes minor server changes to support client needs"
-        ],
-        "examples": [
-          "Added IFTTT trigger for adding items to Thrillworks",
-          "Added a RESTful DELETE API endpoint for item management",
-          "Created a minor PHP Artisan command for a Laravel function"
-        ]
-      },
-      {
-        "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
-        "signals": [
-          "Assesses correctness and utility of existing code and avoids blind copy-pasting",
-          "Generalizes code when appropriate",
-          "Determines data needs from product requirements"
-        ],
-        "examples": [
-          "Identified need for new index on Algolia",
-          "Acted as caretaker for API routes management",
-          "Updated version and codebase dependencies without errors"
-        ]
-      },
-      {
-        "summary": "Designs standalone systems of moderate complexity, or major new features in existing systems",
-        "signals": [
-          "Acts as primary maintainer for existing critical systems",
-          "Integrates third party services effectively",
-          "Writes playbooks for new service maintenance"
-        ],
-        "examples": [
-          "Implemented Google Auth login to Thrillworks",
-          "Implemented payments integration with Stripe",
-          "Built Email Delivery services and deployed servers "
-        ]
-      },
-      {
-        "summary": "Builds complex, reusable architectures that pioneer best practices for other engineers, or multi-system services",
-        "signals": [
-          "Delivers complex systems that achieve their goals",
-          "Avoids subtle architectural mistakes when considering new systems",
-          "Makes appropriate buy vs build choices"
-        ],
-        "examples": [
-          "Designed Thrillworks's cursor management for paged data feeds",
-          "Designed custom domains architecture",
-          "Created Idempotency framework for proper API management"
-        ]
-      },
-      {
-        "summary": "Is an industry-leading expert in server side engineering or sets strategic server side direction for an eng team",
-        "signals": [
-          "Designs transformational projects of significant complexity and scope",
-          "Makes decisions that have positive, long term, wide ranging consequences",
-          "Identifies and solves systemic problems with current architecture"
-        ],
-        "examples": [
-          "Researched, vetted, and selected Laravel as Thrillworks's primary backend language",
-          "Defined microservices architecture and migration plan for V4 -> V5 customers",
-          "Defined and implemented proprietary IP core to the company's success"
-        ]
-      }
-    ]
-  },
   "MOBILE": {
     "displayName": "Mobile",
     "category": "A",
-    "description": "Develops expertise in native mobile platform engineering, such as iOS or Android",
+    "description": "Develops expertise in native mobile platform engineering",
     "milestones": [
       {
         "summary": "Works effectively within established iOS or Android architectures, following current best practices",
@@ -215,10 +71,82 @@
       }
     ]
   },
-  "DEVOPS": {
+  "WEB_CLIENT": {
+    "displayName": "Frontend",
+    "category": "A",
+    "description": "Develops expertise in HTML/CSS/JS",
+    "milestones": [
+      {
+        "summary": "Works effectively within established web client architectures, following current best practices",
+        "signals": [
+          "Makes minor modifications to existing screens",
+          "Fixes simple design quality issues",
+          "Uses CSS appropriately, following style guide"
+        ],
+        "examples": [
+          "Implemented sticky item adder on the item detail page",
+          "Hooked up the action to delete an item from an agenda",
+          "Built a new page using ready made scaffolding for EmberJS"
+        ]
+      },
+      {
+        "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
+        "signals": [
+          "Makes sensible abstractions based on template and code patterns",
+          "Specs and builds interactive components independently",
+          "Prototypes simple new features quickly"
+        ],
+        "examples": [
+          "Built paginated page component",
+          "Created shared buttons template",
+          "Uses and understand how Ember-Data works "
+        ]
+      },
+      {
+        "summary": "Designs major new features and demonstrates a nuanced understanding of browser constraints",
+        "signals": [
+          "Provides useful design feedback and suggests feasible alternatives",
+          "Performs systemic tasks to significantly minimise bundle size",
+          "Acts a caretaker for all of web client code"
+        ],
+        "examples": [
+          "Designed font loading strategy for Thrillworks",
+          "Researched utility of service workers for Thrillworks",
+          "Designed and implemented A major feature in the app"
+        ]
+      },
+      {
+        "summary": "Builds complex, reusable architectures that pioneer best practices and enable engineers to work more effectively",
+        "signals": [
+          "Pioneers architecture migrations that reduce programmer burden",
+          "Implements complex UI transitions that bring delight",
+          "Makes architectural decisions that eliminate entire classes of bugs"
+        ],
+        "examples": [
+          "Designed and implemented a significant Thrillworks component library asset",
+          "Implemented Thrillworks's complex microsoft teams embedded frame view",
+          "Designed and pioneered local storage model for front-end authentication"
+        ]
+      },
+      {
+        "summary": "Is an industry-leading expert in web client or sets strategic web client direction for an eng team",
+        "signals": [
+          "Invents new techniques to innovate and overcome browser constraints",
+          "Identifies and solved systemic problems with current architecture",
+          "Defines a long-term vision for web client and ensures projects are in service of it"
+        ],
+        "examples": [
+          "Invented CSS in JS",
+          "Defined and drove migration strategy to EmberJS from JQuery",
+          "Implemented unidirectional data flow to completion"
+        ]
+      }
+    ]
+  },
+  "FOUNDATIONS": {
     "displayName": "DevOps",
     "category": "A",
-    "description": "Develops expertise in foundational systems such as deployments, pipelines, databases and machine learning",
+    "description": "Develops expertise in foundational systems, such as deployments, pipelines, databases and machine learning",
     "milestones": [
       {
         "summary": "Works effectively within established structures, following current best practices",
@@ -283,6 +211,78 @@
           "Invented a novel ML technique that advanced the state of the art",
           "Defined and developed Thrillworks's continuous delivery strategy",
           "Developed and implemented High Availability strategy"
+        ]
+      }
+    ]
+  },
+  "SERVERS": {
+    "displayName": "Backend",
+    "category": "A",
+    "description": "Develops expertise in server side engineering, using technologies such as PHP, NodeJS, or .NET",
+    "milestones": [
+      {
+        "summary": "Works effectively within established server side frameworks, following current best practices",
+        "signals": [
+          "Adds NodeJS endpoints using layers architecture",
+          "Adds Service endpoints using Laravel PHP Framework",
+          "Makes minor server changes to support client needs"
+        ],
+        "examples": [
+          "Added IFTTT trigger for adding items to Thrillworks",
+          "Added a RESTful DELETE API endpoint for item management",
+          "Created a minor PHP Artisan command for a Laravel function"
+        ]
+      },
+      {
+        "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
+        "signals": [
+          "Assesses correctness and utility of existing code and avoids blind copy-pasting",
+          "Generalizes code when appropriate",
+          "Determines data needs from product requirements"
+        ],
+        "examples": [
+          "Identified need for new index on Algolia",
+          "Acted as caretaker for API routes management",
+          "Updated version and codebase dependencies without errors"
+        ]
+      },
+      {
+        "summary": "Designs standalone systems of moderate complexity, or major new features in existing systems",
+        "signals": [
+          "Acts as primary maintainer for existing critical systems",
+          "Integrates third party services effectively",
+          "Writes playbooks for new service maintenance"
+        ],
+        "examples": [
+          "Implemented Google Auth login to Thrillworks",
+          "Implemented payments integration with Stripe",
+          "Built Email Delivery services and deployed servers "
+        ]
+      },
+      {
+        "summary": "Builds complex, reusable architectures that pioneer best practices for other engineers, or multi-system services",
+        "signals": [
+          "Delivers complex systems that achieve their goals",
+          "Avoids subtle architectural mistakes when considering new systems",
+          "Makes appropriate buy vs build choices"
+        ],
+        "examples": [
+          "Designed Thrillworks's cursor management for paged data feeds",
+          "Designed custom domains architecture",
+          "Created Idempotency framework for proper API management"
+        ]
+      },
+      {
+        "summary": "Is an industry-leading expert in server side engineering or sets strategic server side direction for an eng team",
+        "signals": [
+          "Designs transformational projects of significant complexity and scope",
+          "Makes decisions that have positive, long term, wide ranging consequences",
+          "Identifies and solves systemic problems with current architecture"
+        ],
+        "examples": [
+          "Researched, vetted, and selected Laravel as Thrillworks's primary backend language",
+          "Defined microservices architecture and migration plan for V4 -> V5 customers",
+          "Defined and implemented proprietary IP core to the company's success"
         ]
       }
     ]
