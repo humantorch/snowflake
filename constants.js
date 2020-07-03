@@ -1,6 +1,10 @@
 // @flow
 import * as d3 from "d3";
 
+// All track copy is now in tracks.json
+import * as alltracks from "./tracks";
+
+
 export type TrackId =
   | "MOBILE"
   | "FRONTEND"
@@ -108,11 +112,6 @@ type Tracks = {|
   RECRUITING: Track,
   COMMUNITY: Track
 |};
-
-// All track copy is now in tracks.json
-
-import * as alltracks from "./tracks";
-console.log(alltracks);
 
 export const tracks: Tracks = alltracks;
 

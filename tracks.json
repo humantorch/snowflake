@@ -38,8 +38,8 @@
           "Acts a caretaker for all of web client code"
         ],
         "examples": [
-          "Designed font loading strategy for SoapBox",
-          "Researched utility of service workers for SoapBox",
+          "Designed font loading strategy for Thrillworks",
+          "Researched utility of service workers for Thrillworks",
           "Designed and implemented A major feature in the app"
         ]
       },
@@ -51,8 +51,8 @@
           "Makes architectural decisions that eliminate entire classes of bugs"
         ],
         "examples": [
-          "Designed and implemented a significant SoapBox component library asset",
-          "Implemented SoapBox's complex microsoft teams embedded frame view",
+          "Designed and implemented a significant Thrillworks component library asset",
+          "Implemented Thrillworks's complex microsoft teams embedded frame view",
           "Designed and pioneered local storage model for front-end authentication"
         ]
       },
@@ -84,7 +84,7 @@
           "Makes minor server changes to support client needs"
         ],
         "examples": [
-          "Added IFTTT trigger for adding items to SoapBox",
+          "Added IFTTT trigger for adding items to Thrillworks",
           "Added a RESTful DELETE API endpoint for item management",
           "Created a minor PHP Artisan command for a Laravel function"
         ]
@@ -110,7 +110,7 @@
           "Writes playbooks for new service maintenance"
         ],
         "examples": [
-          "Implemented Google Auth login to SoapBox",
+          "Implemented Google Auth login to Thrillworks",
           "Implemented payments integration with Stripe",
           "Built Email Delivery services and deployed servers "
         ]
@@ -123,7 +123,7 @@
           "Makes appropriate buy vs build choices"
         ],
         "examples": [
-          "Designed SoapBox's cursor management for paged data feeds",
+          "Designed Thrillworks's cursor management for paged data feeds",
           "Designed custom domains architecture",
           "Created Idempotency framework for proper API management"
         ]
@@ -136,7 +136,7 @@
           "Identifies and solves systemic problems with current architecture"
         ],
         "examples": [
-          "Researched, vetted, and selected Laravel as SoapBox's primary backend language",
+          "Researched, vetted, and selected Laravel as Thrillworks's primary backend language",
           "Defined microservices architecture and migration plan for V4 -> V5 customers",
           "Defined and implemented proprietary IP core to the company's success"
         ]
@@ -255,7 +255,7 @@
         ],
         "examples": [
           "Designed AWS configuration management",
-          "Built SoapBox's realtime stats pipeline and monitoring dashboard",
+          "Built Thrillworks's realtime stats pipeline and monitoring dashboard",
           "Designed flexible framework for writing machine learning jobs"
         ]
       },
@@ -281,7 +281,7 @@
         ],
         "examples": [
           "Invented a novel ML technique that advanced the state of the art",
-          "Defined and developed SoapBox's continuous delivery strategy",
+          "Defined and developed Thrillworks's continuous delivery strategy",
           "Developed and implemented High Availability strategy"
         ]
       }
@@ -353,7 +353,7 @@
         ],
         "examples": [
           "Managed technical migration to SOA",
-          "Lead technical delivery of migration from SoapBox V4 to V5",
+          "Lead technical delivery of migration from Thrillworks V4 to V5",
           "Delivered multi-month engineering project on time"
         ]
       }
@@ -372,7 +372,7 @@
           "Asks for help at the appropriate juncture"
         ],
         "examples": [
-          "Updated SoapBox github wiki when performing install scripts and run into errors",
+          "Updated Thrillworks github wiki when performing install scripts and run into errors",
           "Updated project status changes in JIRA promptly",
           "Gave thoughtful check-in and check-out comments"
         ]
@@ -412,7 +412,7 @@
         ],
         "examples": [
           "Lead off-site workshop on interviewing",
-          "Wrote SoapBox's growth framework and rationale",
+          "Wrote Thrillworks's growth framework and rationale",
           "Aligned the entire organization around Discussions development"
         ]
       },
@@ -484,7 +484,7 @@
         ],
         "examples": [
           "Added code coverage reporting to iOS CI pipeline",
-          "Iterated repeatedly to develop SoapBox's underlines solution",
+          "Iterated repeatedly to develop Thrillworks's underlines solution",
           "Defined and oversaw plan for closing Heartbleed vulnerability"
         ]
       },
@@ -569,7 +569,7 @@
         ],
         "examples": [
           "Migrated the organization to using Agile methodologies",
-          "Built SoapBox chrome extention prototype and convinced execs to build it",
+          "Built Thrillworks chrome extention prototype and convinced execs to build it",
           "Convinced leadership and engineering org to move to a microservices architecture"
         ]
       }
@@ -895,7 +895,7 @@
         ]
       },
       {
-        "summary": "Teaches small groups of engineers and contributes to SoapBox's shared knowledge base",
+        "summary": "Teaches small groups of engineers and contributes to Thrillworks's shared knowledge base",
         "signals": [
           "Avoids siloing information when it can be usefully shared with others",
           "Works to increase the bus factor of systems",
@@ -915,7 +915,7 @@
           "Creates brown bag series and lines up speakers"
         ],
         "examples": [
-          "Created and lead SoapBox' Women in Eng group",
+          "Created and lead Thrillworks' Women in Eng group",
           "Organized an Eng All Hands with an outside speaker",
           "Designed and taught web client guild curriculum"
         ]
@@ -938,17 +938,17 @@
   "EVANGELISM": {
     "displayName": "Evangelism",
     "category": "D",
-    "description": "Promotes SoapBox to the outside world and establishes it as an attractive and thoughtful place to work",
+    "description": "Promotes Thrillworks to the outside world and establishes it as an attractive and thoughtful place to work",
     "milestones": [
       {
-        "summary": "Represents SoapBox well externally, and influences individuals positively",
+        "summary": "Represents Thrillworks well externally, and influences individuals positively",
         "signals": [
           "Shares personal and organizational successes with their network",
-          "Attends SoapBox-hosted events and talks with guests",
+          "Attends Thrillworks-hosted events and talks with guests",
           "Communicates genuine and honest excitement about their work externally"
         ],
         "examples": [
-          "Shared a SoapBox product launch post on Facebook",
+          "Shared a Thrillworks product launch post on Facebook",
           "Acted as a guide for a non-friend visitor to the office",
           "Supported PR efforts by giving a quote or having a photo taken"
         ]
@@ -956,53 +956,53 @@
       {
         "summary": "Participates more centrally in small events, and takes simple actions that positively influence groups of people",
         "signals": [
-          "Takes meaningful action to introduce people to SoapBox",
-          "Joined public Slack group and represented Soapbox appropriately, and well",
-          "Organizes positive small- or medium-sized events that bring people to SoapBox"
+          "Takes meaningful action to introduce people to Thrillworks",
+          "Joined public Slack group and represented Thrillworks appropriately, and well",
+          "Organizes positive small- or medium-sized events that bring people to Thrillworks"
         ],
         "examples": [
           "Volunteered as a helper for external code writing workshop",
           "Organized a short tour of the office by college students",
-          "Talked at a Laravel Toronto event hosted at SoapBox"
+          "Talked at a Laravel Toronto event hosted at Thrillworks"
         ]
       },
       {
-        "summary": "Works hard to positively influence large groups of people on their views of Soapbox",
+        "summary": "Works hard to positively influence large groups of people on their views of Thrillworks",
         "signals": [
           "Mentors or participates in a high visibility way in an external organization",
           "Builds fruitful partnerships with external organizations",
-          "Writes blog posts about Soapbox that receive moderate traffic"
+          "Writes blog posts about Thrillworks that receive moderate traffic"
         ],
         "examples": [
-          "Represented Soapbox on a panel at a conference of industry experts",
+          "Represented Thrillworks on a panel at a conference of industry experts",
           "Established close ties with Creative Commons",
           "Built a durable, long-standing org relationship with external not-for-profit"
         ]
       },
       {
-        "summary": "Establishes Soapbox as an great, innovative company and workplace to the whole industry",
+        "summary": "Establishes Thrillworks as an great, innovative company and workplace to the whole industry",
         "signals": [
           "Establishes themself as an industry thought leader who attracts talent",
-          "Publishes material about Soapbox's organizational or technical innovations",
-          "Leverages significant following to evangelise Soapbox"
+          "Publishes material about Thrillworks's organizational or technical innovations",
+          "Leverages significant following to evangelise Thrillworks"
         ],
         "examples": [
-          "Published a paper on Soapbox technology in a peer-reviewed journal",
+          "Published a paper on Thrillworks technology in a peer-reviewed journal",
           "Authored joint-press releases",
           "Published opinionated post on an Engineering blog internal or external"
         ]
       },
       {
-        "summary": "Introduces Soapbox in a positive light to a wider audience outside the industry",
+        "summary": "Introduces Thrillworks in a positive light to a wider audience outside the industry",
         "signals": [
           "Delivers key messages to broad, mainstream audiences",
-          "Influences people with large audiences to talk about Soapbox positively",
-          "Drives recognition and adoption of Soapbox in significant numbers"
+          "Influences people with large audiences to talk about Thrillworks positively",
+          "Drives recognition and adoption of Thrillworks in significant numbers"
         ],
         "examples": [
           "Published or interviewed in a mainstream newspaper or website outside tech",
           "Keynoted a conference with international attention",
-          "Represented Soapbox in national televised media"
+          "Represented Thrillworks in national televised media"
         ]
       }
     ]
@@ -1010,10 +1010,10 @@
   "RECRUITING": {
     "displayName": "Recruiting",
     "category": "D",
-    "description": "Strengthens Soapbox's team by bringing in excellent staff members",
+    "description": "Strengthens Thrillworks's team by bringing in excellent staff members",
     "milestones": [
       {
-        "summary": "Brings new candidates into the pipeline and understands how to evaluate candidates at Soapbox",
+        "summary": "Brings new candidates into the pipeline and understands how to evaluate candidates at Thrillworks",
         "signals": [
           "Reviews existing network for hiring leads regularly",
           "Shadows interviews to gain familiarity with process",
@@ -1034,7 +1034,7 @@
         ],
         "examples": [
           "Added observable evidence for every rating",
-          "Started a quarterly event for candidates to meet SoapBox employees",
+          "Started a quarterly event for candidates to meet Thrillworks employees",
           "Tested a new service for quality and diversity of candidates"
         ]
       },
@@ -1060,8 +1060,8 @@
         ],
         "examples": [
           "Planned engineering summit on interview process and training",
-          "Organized and lead SoapBox's presence at a recruitment fair",
-          "Started a SoapBox internship program"
+          "Organized and lead Thrillworks's presence at a recruitment fair",
+          "Started a Thrillworks internship program"
         ]
       },
       {
@@ -1140,7 +1140,7 @@
         "summary": "Lives the company values, guards positive culture, and defines policies that support relatedness between teams",
         "signals": [
           "Brings separate teams together to build relatedness",
-          "Holds individuals, teams, and leadership accountable to SoapBox's values",
+          "Holds individuals, teams, and leadership accountable to Thrillworks's values",
           "Sets the tone, policy, and goals around maintaining an inclusive company"
         ],
         "examples": [
