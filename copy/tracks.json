@@ -5,16 +5,16 @@
     "description": "Develops expertise in HTML/CSS/JS",
     "milestones": [
       {
-        "summary": "Works effectively within established web client architectures, following current best practices",
+        "summary": "Works effectively within established frontend architectures, following current best practices",
         "signals": [
-          "Makes minor modifications to existing screens",
+          "Makes minor modifications to existing projects",
           "Fixes simple design quality issues",
           "Uses CSS appropriately, following style guide"
         ],
         "examples": [
-          "Implemented sticky item adder on the item detail page",
-          "Hooked up the action to delete an item from an agenda",
-          "Built a new page using ready made scaffolding for EmberJS"
+          "Fixes minor layout issues assigned by Jira task",
+          "Hooked up an action to call an existing API",
+          "Built a new page using established React project template"
         ]
       },
       {
@@ -362,7 +362,7 @@
   "COMMUNICATION": {
     "displayName": "Communication",
     "category": "B",
-    "description": "Shares the right amount of information with the right people, at the right time, and listens effectively",
+    "description": "Practices strong communication, sharing the right information with the right people and actively listens to feedback. ",
     "milestones": [
       {
         "summary": "Communicates effectively to close stakeholders when called upon, and incorporates constructive feedback",
@@ -432,9 +432,9 @@
     ]
   },
   "CRAFT": {
-    "displayName": "Craft",
+    "displayName": "Quality Assurance",
     "category": "B",
-    "description": "Embodies and promotes practices to ensure excellent quality products and services",
+    "description": "Promotes practices to ensure excellent QA of deliveries for Thrillworks clients",
     "milestones": [
       {
         "summary": "Delivers consistently good quality work",
@@ -506,7 +506,7 @@
   "INITIATIVE": {
     "displayName": "Initiative",
     "category": "B",
-    "description": "Challenges the status quo and effects positive organizational change outside of mandated work",
+    "description": "Shows hunger by challenging the status quo and effecting positive organizational change outside of mandated work. ",
     "milestones": [
       {
         "summary": "Identifies opportunities for organizational change or product improvements",
@@ -578,7 +578,7 @@
   "CAREER_DEVELOPMENT": {
     "displayName": "Career development",
     "category": "C",
-    "description": "Provides strategic support to engineers to help them build the career they want",
+    "description": "Provides strategic support to help other Thrillworkers build their careers",
     "milestones": [
       {
         "summary": "Gives insight into opportunities and helps identify individuals' strengths and weaknesses",
