@@ -1010,7 +1010,7 @@
   "RECRUITING": {
     "displayName": "Recruiting",
     "category": "D",
-    "description": "Strengthens Thrillworks's team by bringing in excellent staff members",
+    "description": "Strengthens Thrillworks by bringing in excellent staff members",
     "milestones": [
       {
         "summary": "Brings new candidates into the pipeline and understands how to evaluate candidates at Thrillworks",
@@ -1082,7 +1082,7 @@
   "COMMUNITY": {
     "displayName": "Community",
     "category": "D",
-    "description": "Builds community internally, gives of themself to the team, and champions and extols company values",
+    "description": "Builds community internally and champions Thrillworks' fundamental values.",
     "milestones": [
       {
         "summary": "Is available and present on current teams, and works to contribute positively to company culture",
