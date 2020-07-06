@@ -255,7 +255,7 @@
         ],
         "examples": [
           "Designed AWS configuration management",
-          "Built Thrillworks's realtime stats pipeline and monitoring dashboard",
+          "Builds a realtime stats pipeline and monitoring dashboard",
           "Designed flexible framework for writing machine learning jobs"
         ]
       },
