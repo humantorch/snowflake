@@ -27,7 +27,7 @@
         "examples": [
           "Built paginated page component",
           "Created shared buttons template",
-          "Uses and understand how Ember-Data works "
+          "Uses and understand how React Hooks works "
         ]
       },
       {
@@ -38,9 +38,9 @@
           "Acts a caretaker for all of web client code"
         ],
         "examples": [
-          "Designed font loading strategy for Thrillworks",
-          "Researched utility of service workers for Thrillworks",
-          "Designed and implemented A major feature in the app"
+          "Designed dynamic font loading strategy for a Thrillworks project",
+          "Researched utility of service workers for a Thrillworks project",
+          "Designed and implemented a major feature"
         ]
       },
       {
@@ -52,7 +52,7 @@
         ],
         "examples": [
           "Designed and implemented a significant Thrillworks component library asset",
-          "Implemented Thrillworks's complex microsoft teams embedded frame view",
+          "Implemented Zoom integration into a client's website",
           "Designed and pioneered local storage model for front-end authentication"
         ]
       },
@@ -65,7 +65,7 @@
         ],
         "examples": [
           "Invented CSS in JS",
-          "Defined and drove migration strategy to EmberJS from JQuery",
+          "Defined and drove migration strategy to React from jQuery",
           "Implemented unidirectional data flow to completion"
         ]
       }
@@ -290,7 +290,7 @@
   "PROJECT_MANAGEMENT": {
     "displayName": "Project management",
     "category": "B",
-    "description": "Delivers well-scoped programs of work that meet their goals, on time, to budget, harmoniously",
+    "description": "Delivers well-scoped work that meets all time and budget goals",
     "milestones": [
       {
         "summary": "Effectively manages own time",
@@ -353,7 +353,7 @@
         ],
         "examples": [
           "Managed technical migration to SOA",
-          "Lead technical delivery of migration from Thrillworks V4 to V5",
+          "Lead technical delivery of migration through a major version update",
           "Delivered multi-month engineering project on time"
         ]
       }
