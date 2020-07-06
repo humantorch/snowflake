@@ -293,7 +293,7 @@
     "description": "Delivers well-scoped programs of work that meet their goals, on time, to budget, harmoniously",
     "milestones": [
       {
-        "summary": "Effectively delivers individual tasks",
+        "summary": "Effectively manages own time",
         "signals": [
           "Estimates small tasks accurately",
           "Delivers tightly-scoped projects efficiently",
@@ -434,10 +434,10 @@
   "CRAFT": {
     "displayName": "Quality Assurance",
     "category": "B",
-    "description": "Promotes practices to ensure excellent QA of deliveries for Thrillworks clients",
+    "description": "Promotes practices to ensure excellent quality of deliveries for Thrillworks clients",
     "milestones": [
       {
-        "summary": "Delivers consistently good quality work",
+        "summary": "Delivers consistently good reports on the quality of work",
         "signals": [
           "Tests new code thoroughly, both locally, and in production once shipped",
           "Writes tests for every new feature and bug fix",
