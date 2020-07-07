@@ -1,5 +1,7 @@
 # Snowflake
 
+### This is still very much a work in progress and is not "officially" official. Yet.
+
 Snowflake is Thrillworks' tool for planning and supporting our employees career development, heavily influenced from Medium's career growth framework.
 
 ## Installation
