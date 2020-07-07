@@ -5,4 +5,4 @@
 // </g>
 // </svg>
 
-export default () => <h1>TODO: thrillworks logo</h1>
+export default () => <h1>Thrillworks Engineering</h1>
