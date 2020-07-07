@@ -34,7 +34,7 @@ export default () =>
     </h1>
 
     <h2>August 2020</h2>
-          <img src="/static/snowflake-1.png"></img>
+          <img src="/static/snowflake-1.png" width="200"></img><br /><img src="/static/therm-1.png" width="900" />
     <h2>February 2021</h2>
-    <img src="/static/snowflake-2.png"></img>
+    <img src="/static/snowflake-2.png" width="200"></img><br /><img src="/static/therm-2.png" width="900" />
 </main>
