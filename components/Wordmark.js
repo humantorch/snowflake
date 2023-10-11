@@ -5,4 +5,4 @@
 // </g>
 // </svg>
 
-export default () => <h1>Thrillworks Engineering</h1>
+export default () => <h1>Growth Snowflake</h1>

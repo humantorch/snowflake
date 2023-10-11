@@ -38,8 +38,8 @@
           "Acts a caretaker for all of web client code"
         ],
         "examples": [
-          "Designed dynamic font loading strategy for a Thrillworks project",
-          "Researched utility of service workers for a Thrillworks project",
+          "Designed dynamic font loading strategy for a [CLIENT] project",
+          "Researched utility of service workers for a [CLIENT] project",
           "Designed and implemented a major feature"
         ]
       },
@@ -51,7 +51,7 @@
           "Makes architectural decisions that eliminate entire classes of bugs"
         ],
         "examples": [
-          "Designed and implemented a significant Thrillworks component library asset",
+          "Designed and implemented a significant [CLIENT] component library asset",
           "Implemented Zoom integration into a client's website",
           "Designed and pioneered local storage model for front-end authentication"
         ]
@@ -84,7 +84,7 @@
           "Makes minor server changes to support client needs"
         ],
         "examples": [
-          "Added IFTTT trigger for adding items to Thrillworks",
+          "Added IFTTT trigger for adding items to [CLIENT]",
           "Added a RESTful DELETE API endpoint for item management",
           "Created a minor PHP Artisan command for a Laravel function"
         ]
@@ -110,7 +110,7 @@
           "Writes playbooks for new service maintenance"
         ],
         "examples": [
-          "Implemented Google Auth login to Thrillworks",
+          "Implemented Google Auth login to [CLIENT]",
           "Implemented payments integration with Stripe",
           "Built Email Delivery services and deployed servers "
         ]
@@ -123,7 +123,7 @@
           "Makes appropriate buy vs build choices"
         ],
         "examples": [
-          "Designed Thrillworks's cursor management for paged data feeds",
+          "Designed [CLIENT]'s cursor management for paged data feeds",
           "Designed custom domains architecture",
           "Created Idempotency framework for proper API management"
         ]
@@ -136,7 +136,7 @@
           "Identifies and solves systemic problems with current architecture"
         ],
         "examples": [
-          "Researched, vetted, and selected Laravel as Thrillworks's primary backend language",
+          "Researched, vetted, and selected Laravel as [CLIENT]'s primary backend language",
           "Defined microservices architecture and migration plan for V4 -> V5 customers",
           "Defined and implemented proprietary IP core to the company's success"
         ]
@@ -281,7 +281,7 @@
         ],
         "examples": [
           "Invented a novel ML technique that advanced the state of the art",
-          "Defined and developed Thrillworks's continuous delivery strategy",
+          "Defined and developed [CLIENT]'s continuous delivery strategy",
           "Developed and implemented High Availability strategy"
         ]
       }
@@ -372,7 +372,7 @@
           "Asks for help at the appropriate juncture"
         ],
         "examples": [
-          "Updated Thrillworks github wiki when performing install scripts and run into errors",
+          "Updated [CLIENT] github wiki when performing install scripts and run into errors",
           "Updated project status changes in JIRA promptly",
           "Gave thoughtful check-in and check-out comments"
         ]
@@ -412,7 +412,7 @@
         ],
         "examples": [
           "Lead off-site workshop on interviewing",
-          "Wrote Thrillworks's growth framework and rationale",
+          "Wrote [CLIENT]'s growth framework and rationale",
           "Aligned the entire organization around Discussions development"
         ]
       },
@@ -434,7 +434,7 @@
   "CRAFT": {
     "displayName": "Quality Assurance",
     "category": "B",
-    "description": "Promotes practices to ensure excellent quality of deliveries for Thrillworks clients",
+    "description": "Promotes practices to ensure excellent quality of deliveries for [CLIENT] clients",
     "milestones": [
       {
         "summary": "Delivers consistently good reports on the quality of work",
@@ -484,7 +484,7 @@
         ],
         "examples": [
           "Added code coverage reporting to iOS CI pipeline",
-          "Iterated repeatedly to develop Thrillworks's underlines solution",
+          "Iterated repeatedly to develop [CLIENT]'s underlines solution",
           "Defined and oversaw plan for closing Heartbleed vulnerability"
         ]
       },
@@ -569,7 +569,7 @@
         ],
         "examples": [
           "Migrated the organization to using Agile methodologies",
-          "Built Thrillworks chrome extention prototype and convinced execs to build it",
+          "Built [CLIENT] chrome extention prototype and convinced execs to build it",
           "Convinced leadership and engineering org to move to a microservices architecture"
         ]
       }
@@ -895,7 +895,7 @@
         ]
       },
       {
-        "summary": "Teaches small groups of engineers and contributes to Thrillworks's shared knowledge base",
+        "summary": "Teaches small groups of engineers and contributes to [CLIENT]'s shared knowledge base",
         "signals": [
           "Avoids siloing information when it can be usefully shared with others",
           "Works to increase the bus factor of systems",
@@ -915,7 +915,7 @@
           "Creates brown bag series and lines up speakers"
         ],
         "examples": [
-          "Created and lead Thrillworks' Women in Eng group",
+          "Created and lead [CLIENT]' Women in Eng group",
           "Organized an Eng All Hands with an outside speaker",
           "Designed and taught web client guild curriculum"
         ]
@@ -938,17 +938,17 @@
   "EVANGELISM": {
     "displayName": "Evangelism",
     "category": "D",
-    "description": "Promotes Thrillworks to the outside world and establishes it as an attractive and thoughtful place to work",
+    "description": "Promotes [CLIENT] to the outside world and establishes it as an attractive and thoughtful place to work",
     "milestones": [
       {
-        "summary": "Represents Thrillworks well externally, and influences individuals positively",
+        "summary": "Represents [CLIENT] well externally, and influences individuals positively",
         "signals": [
           "Shares personal and organizational successes with their network",
-          "Attends Thrillworks-hosted events and talks with guests",
+          "Attends [CLIENT]-hosted events and talks with guests",
           "Communicates genuine and honest excitement about their work externally"
         ],
         "examples": [
-          "Shared a Thrillworks product launch post on Facebook",
+          "Shared a [CLIENT] product launch post on Facebook",
           "Acted as a guide for a non-friend visitor to the office",
           "Supported PR efforts by giving a quote or having a photo taken"
         ]
@@ -956,53 +956,53 @@
       {
         "summary": "Participates more centrally in small events, and takes simple actions that positively influence groups of people",
         "signals": [
-          "Takes meaningful action to introduce people to Thrillworks",
-          "Joined public Slack group and represented Thrillworks appropriately, and well",
-          "Organizes positive small- or medium-sized events that bring people to Thrillworks"
+          "Takes meaningful action to introduce people to [CLIENT]",
+          "Joined public Slack group and represented [CLIENT] appropriately, and well",
+          "Organizes positive small- or medium-sized events that bring people to [CLIENT]"
         ],
         "examples": [
           "Volunteered as a helper for external code writing workshop",
           "Organized a short tour of the office by college students",
-          "Talked at a Laravel Toronto event hosted at Thrillworks"
+          "Talked at a Laravel Toronto event hosted at [CLIENT]"
         ]
       },
       {
-        "summary": "Works hard to positively influence large groups of people on their views of Thrillworks",
+        "summary": "Works hard to positively influence large groups of people on their views of [CLIENT]",
         "signals": [
           "Mentors or participates in a high visibility way in an external organization",
           "Builds fruitful partnerships with external organizations",
-          "Writes blog posts about Thrillworks that receive moderate traffic"
+          "Writes blog posts about [CLIENT] that receive moderate traffic"
         ],
         "examples": [
-          "Represented Thrillworks on a panel at a conference of industry experts",
+          "Represented [CLIENT] on a panel at a conference of industry experts",
           "Established close ties with Creative Commons",
           "Built a durable, long-standing org relationship with external not-for-profit"
         ]
       },
       {
-        "summary": "Establishes Thrillworks as an great, innovative company and workplace to the whole industry",
+        "summary": "Establishes [CLIENT] as an great, innovative company and workplace to the whole industry",
         "signals": [
           "Establishes themself as an industry thought leader who attracts talent",
-          "Publishes material about Thrillworks's organizational or technical innovations",
-          "Leverages significant following to evangelise Thrillworks"
+          "Publishes material about [CLIENT]'s organizational or technical innovations",
+          "Leverages significant following to evangelise [CLIENT]"
         ],
         "examples": [
-          "Published a paper on Thrillworks technology in a peer-reviewed journal",
+          "Published a paper on [CLIENT] technology in a peer-reviewed journal",
           "Authored joint-press releases",
           "Published opinionated post on an Engineering blog internal or external"
         ]
       },
       {
-        "summary": "Introduces Thrillworks in a positive light to a wider audience outside the industry",
+        "summary": "Introduces [CLIENT] in a positive light to a wider audience outside the industry",
         "signals": [
           "Delivers key messages to broad, mainstream audiences",
-          "Influences people with large audiences to talk about Thrillworks positively",
-          "Drives recognition and adoption of Thrillworks in significant numbers"
+          "Influences people with large audiences to talk about [CLIENT] positively",
+          "Drives recognition and adoption of [CLIENT] in significant numbers"
         ],
         "examples": [
           "Published or interviewed in a mainstream newspaper or website outside tech",
           "Keynoted a conference with international attention",
-          "Represented Thrillworks in national televised media"
+          "Represented [CLIENT] in national televised media"
         ]
       }
     ]
@@ -1010,10 +1010,10 @@
   "RECRUITING": {
     "displayName": "Recruiting",
     "category": "D",
-    "description": "Strengthens Thrillworks by bringing in excellent staff members",
+    "description": "Strengthens [CLIENT] by bringing in excellent staff members",
     "milestones": [
       {
-        "summary": "Brings new candidates into the pipeline and understands how to evaluate candidates at Thrillworks",
+        "summary": "Brings new candidates into the pipeline and understands how to evaluate candidates at [CLIENT]",
         "signals": [
           "Reviews existing network for hiring leads regularly",
           "Shadows interviews to gain familiarity with process",
@@ -1034,7 +1034,7 @@
         ],
         "examples": [
           "Added observable evidence for every rating",
-          "Started a quarterly event for candidates to meet Thrillworks employees",
+          "Started a quarterly event for candidates to meet [CLIENT] employees",
           "Tested a new service for quality and diversity of candidates"
         ]
       },
@@ -1060,8 +1060,8 @@
         ],
         "examples": [
           "Planned engineering summit on interview process and training",
-          "Organized and lead Thrillworks's presence at a recruitment fair",
-          "Started a Thrillworks internship program"
+          "Organized and lead [CLIENT]'s presence at a recruitment fair",
+          "Started a [CLIENT] internship program"
         ]
       },
       {
@@ -1082,7 +1082,7 @@
   "COMMUNITY": {
     "displayName": "Community",
     "category": "D",
-    "description": "Builds community internally and champions Thrillworks' fundamental values.",
+    "description": "Builds community internally and champions [CLIENT]' fundamental values.",
     "milestones": [
       {
         "summary": "Is available and present on current teams, and works to contribute positively to company culture",
@@ -1140,7 +1140,7 @@
         "summary": "Lives the company values, guards positive culture, and defines policies that support relatedness between teams",
         "signals": [
           "Brings separate teams together to build relatedness",
-          "Holds individuals, teams, and leadership accountable to Thrillworks's values",
+          "Holds individuals, teams, and leadership accountable to [CLIENT]'s values",
           "Sets the tone, policy, and goals around maintaining an inclusive company"
         ],
         "examples": [

@@ -158,9 +158,7 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
           }
         `}</style>
         <div style={{margin: '19px auto 0', textAlign: 'center'}}>
-          <a href="https://thrillworks.com/" target="_blank">
             <Wordmark />
-          </a>
         </div>
         <div style={{display: 'flex'}}>
           <div style={{flex: 1}}>
@@ -204,7 +202,7 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
         <div style={{display: 'flex', paddingBottom: '20px'}}>
           <div style={{flex: 5}}>
             ❤️ Made by: <a href="https://medium.engineering" target="_blank">Medium Eng.</a> <br />
-            💙 Modified by: <a href="https://thrillworks.com">Thrillworks Eng.</a> <br />
+            💙 Modified by: <a href="https://scottkosman.com">Scott</a> <br />
           </div>
           <div style={{flex: 1}}>
             <a href="#" onClick={() => this.setState(emptyState())}>Reset</a>
